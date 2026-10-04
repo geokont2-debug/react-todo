@@ -1,0 +1,25 @@
+#root {
+  width: 100%;
+}
+body {
+  background-image: url("/background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.todo {
+background-color: grey;
+padding: 20px;
+border-radius: 10px;  
+width: 500px;
+margin: 100px auto;
+}
+button{
+ margin: 10px; 
+}
+ 
+
